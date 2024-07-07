@@ -1,6 +1,7 @@
 
-```markdown
 # YouTube Video Downloader
+
+----
 
 This script allows you to download videos from YouTube using a specified URL. The downloaded videos will be saved to a specified folder in your home directory.
 
